@@ -26,7 +26,7 @@ Einige Wochen später… Das Produktionsteam ist bei einer weiteren Eskapade in 
 FILES GO HERE
 
 Folgende Anweisungen hast du von Peter zum Sound bekommen:
-> „Also Kerle jetzt gugsch a mo das selle Stimm weng meh nach vorne kunt und’s generell weng meh fetzet dued“.
+> „Also Kerle jetzt gugsch a mo das selle Stimm weng meh nach vorne kunt und’s generell weng meh fetzet dued“
 
 Auf Hochdeutsch bedeutet das: Die Stimme des Sprechers soll ausgewogen und prägnant klingen, darüberhinaus möchte Peter, dass das Ambiente der Craft-Beer-Spelunke rüberkommt. 
 
