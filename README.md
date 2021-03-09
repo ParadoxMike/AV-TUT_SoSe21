@@ -9,6 +9,7 @@
 ### Peters Auftrag
 An eurem ersten Praktikumstag bekommt ihr einen Anruf eures Kollegen, welcher ein Interview mit dem Betreiber der neuen Craft-Beer-Spelunke in Furtwangen-Zentrum drehen will. Das eigentliche Produktionsteam ist durch die Verkostung am Vortag heute leider Arbeitsunfähig. Somit müsst ihr einspringen. Da Peter auf einer außerordentlich renommierten Filmhochschule war, die leider nur wenig bis keinen Wert auf Audio legte, muss er sich in diesem Punkt auf eure Kompetenz verlassen.
 > "Sagemo hesch du net son Ton-Zeug im Schtudium ka? Würdsch du dich da drum kümmere?“
+
 Du nimmst natürlich dankend an um einen guten Eindruck zu hinterlassen.
 Folgendes Equipment ist alles was das Produktionsteam zurückgelassen hat:
 
@@ -26,6 +27,7 @@ FILES GO HERE
 
 Folgende Anweisungen hast du von Peter zum Sound bekommen:
 > „Also Kerle jetzt gugsch a mo das selle Stimm weng meh nach vorne kunt und’s generell weng meh fetzet dued“.
+
 Auf Hochdeutsch bedeutet das: Die Stimme des Sprechers soll ausgewogen und prägnant klingen, darüberhinaus möchte Peter, dass das Ambiente der Craft-Beer-Spelunke rüberkommt. 
 
 ---
