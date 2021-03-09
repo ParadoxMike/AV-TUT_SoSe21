@@ -17,6 +17,7 @@ EQUIP GOES HERE!!!
 Zuletzt gibt dir Peter noch mit auf den Weg er wolle sowohl die Stimme des Interviewten klar hören als auch die Umgebungsatmosphäre der kleinen Spelunke mit einfangen!
 #HILF PETER
 
+
 ## Teil 2: Audioschnitt
 ### Peter wendet sich erneut an euch
 Einige Wochen Später… das Produktionsteam ist bei einer weiteren Eskapade in Barcelona versumpft und nicht aufzufinden. Daher bleibt leider auch die Post-Produktion an euch hängen. Folgende Dateien konnte Peter beim Dreh sichern und euch zur Verfügung stellen:
@@ -24,3 +25,9 @@ Einige Wochen Später… das Produktionsteam ist bei einer weiteren Eskapade in 
 FILES GO HERE
 
 Folgende Anweisungen hast du von Peter zum Sound Bekommen: „Also Kerle jetzt gugsch a mo das selle Stimm weng meh nach vorne kunt und’s generell wenig meh fetzet dued“. Damit wird er wohl gemeint haben: Die Stimme des Sprechers soll ausgewogen und prägnant klingen, darüberhinaus möchte Peter dass das Ambiente der Craft Beer Spelunke rüber kommt. 
+
+---
+
+## Linkliste
+[Mail and die Tutoren](av-praktikum@hs-furtwangen.de)
+[Dokument zur Gruppeneinteilung](https://bit.ly/av-praktikum-anmelden)
