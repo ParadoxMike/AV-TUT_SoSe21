@@ -29,5 +29,5 @@ Folgende Anweisungen hast du von Peter zum Sound Bekommen: „Also Kerle jetzt g
 ---
 
 ## Linkliste
-[Mail and die Tutoren](av-praktikum@hs-furtwangen.de)
-[Dokument zur Gruppeneinteilung](https://bit.ly/av-praktikum-anmelden)
+* [Mail and die Tutoren](mailto:av-praktikum@hs-furtwangen.de)
+* [Dokument zur Gruppeneinteilung](https://bit.ly/av-praktikum-anmelden)
