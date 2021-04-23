@@ -23,11 +23,13 @@ Zuletzt gibt dir Peter noch mit auf den Weg, er wolle sowohl die Stimme des Inte
 ### Peter wendet sich erneut an euch
 Einige Wochen später… Das Produktionsteam ist bei einer weiteren Eskapade in Barcelona versumpft und nicht aufzufinden. Daher bleibt leider auch die Post-Produktion an euch hängen. Folgende Dateien konnte Peter beim Dreh sichern und euch zur Verfügung stellen:
 
-FILES GO HERE
+* [Paket Eins - VO_01 - Craftbeer](./files/VO_01_Craftbeer.zip)
+* [Paket Zwei - VO_02 - Spelunke](./files/VO_02_Spelunke.zip)
+* [Paket Zwei - VO_03 - Stupedia-Student](./files/VO_03_Stupedia_Student.zip)
 
 Infos zu den Dateien:
 
-Zur verfügung stehen 3 "Arbeitspakete" in Aufsteigender Schwierigkeit, Bestandteil der Pakete ist je eine Rohaufnahme und der Gesprochene Text. Bei VO_01 handelt es sich um eine Aufnahme mit sehr wenigen Versprechern direkt ins Mikro eingesprochen. VO_02 enthält schon mehr Versprecher und Gestückelte Sätze. In VO_03 sind viele Gestückelte Sätze enthalten, außerdem ändert sich die Position des Sprechers zum Mikrofon ab und an und der Pegel ist nicht konstant.
+Zur verfügung stehen 3 "Arbeitspakete" in Aufsteigender Schwierigkeit, Bestandteil der Pakete ist je eine Rohaufnahme und der gesprochene Text. Bei VO_01 handelt es sich um eine Aufnahme mit sehr wenigen Versprechern direkt ins Mikro eingesprochen. VO_02 enthält schon mehr Versprecher und Gestückelte Sätze. In VO_03 sind viele Gestückelte Sätze enthalten, außerdem ändert sich die Position des Sprechers zum Mikrofon ab und an und der Pegel ist nicht konstant.
 Aufgabe ist es die Rohaufnahme vom Grundrauschen zu befreien, Versprecher zu entfernen, den Pegel anzupassen usw.
 
 
