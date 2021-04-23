@@ -23,9 +23,9 @@ Zuletzt gibt dir Peter noch mit auf den Weg, er wolle sowohl die Stimme des Inte
 ### Peter wendet sich erneut an euch
 Einige Wochen später… Das Produktionsteam ist bei einer weiteren Eskapade in Barcelona versumpft und nicht aufzufinden. Daher bleibt leider auch die Post-Produktion an euch hängen. Folgende Dateien konnte Peter beim Dreh sichern und euch zur Verfügung stellen:
 
-* [Paket Eins - VO_01 - Craftbeer](./files/VO_01_Craftbeer.zip)
-* [Paket Zwei - VO_02 - Spelunke](./files/VO_02_Spelunke.zip)
-* [Paket Zwei - VO_03 - Stupedia-Student](./files/VO_03_Stupedia_Student.zip)
+* [Paket 01 - VO_01 - Craftbeer](./files/VO_01_Craftbeer.zip)
+* [Paket 02 - VO_02 - Spelunke](./files/VO_02_Spelunke.zip)
+* [Paket 03 - VO_03 - Stupedia-Student](./files/VO_03_Stupedia_Student.zip)
 
 Infos zu den Dateien:
 
