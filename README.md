@@ -13,7 +13,7 @@ An eurem ersten Praktikumstag bekommt ihr einen Anruf eures Kollegen, welcher ei
 Du nimmst natürlich dankend an um einen guten Eindruck zu hinterlassen.
 Folgendes Equipment ist alles was das Produktionsteam zurückgelassen hat:
 
-EQUIP GOES HERE!!!
+<img src="./files/equip.jpg" alt="Equipment"/>
 
 Zuletzt gibt dir Peter noch mit auf den Weg, er wolle sowohl die Stimme des Interviewten klar hören, als auch die Umgebungsatmosphäre der kleinen Spelunke mit einfangen!
 #HILF PETER
