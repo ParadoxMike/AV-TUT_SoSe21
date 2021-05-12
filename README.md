@@ -26,6 +26,7 @@ Einige Wochen später… Das Produktionsteam ist bei einer weiteren Eskapade in 
 * [Paket 01 - VO_01 - Craftbeer](./files/VO_01_Craftbeer.zip)
 * [Paket 02 - VO_02 - Spelunke](./files/VO_02_Spelunke.zip)
 * [Paket 03 - VO_03 - Stupedia-Student](./files/VO_03_Stupedia_Student.zip)
+* [Abelton Set](./files/AV-Tutorium_VOs_Project.zip)
 
 Infos zu den Dateien:
 
@@ -43,3 +44,5 @@ Auf Hochdeutsch bedeutet das: Die Stimme des Sprechers soll ausgewogen und präg
 ## Linkliste
 * [Mail and die Tutoren](mailto:av-praktikum@hs-furtwangen.de)
 * [Dokument zur Gruppeneinteilung](https://bit.ly/av-praktikum-anmelden)
+* [Abelton Trail Link](https://www.ableton.com/de/trial/)
+* [Abgabe Folder](https://drive.google.com/drive/folders/1Rw0Vp_zn1m5loSgZrr1aL-UbCN7OgBa9?usp=sharing)
