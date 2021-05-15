@@ -27,6 +27,7 @@ Einige Wochen später… Das Produktionsteam ist bei einer weiteren Eskapade in 
 * [Paket 02 - VO_02 - Spelunke](./files/VO_02_Spelunke.zip)
 * [Paket 03 - VO_03 - Stupedia-Student](./files/VO_03_Stupedia_Student.zip)
 * [Abelton Set](./files/AV-Tutorium_VOs_Project.zip)
+* [Beilspiel Abmischung - Radiomoderator](./files/AV-Tutorium_Beispiel_Radiostimme.wav)
 
 Infos zu den Dateien:
 
